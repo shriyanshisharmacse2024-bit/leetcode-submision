@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/shriyanshisharmacse2024-bit/leetcode-submision/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0020-valid-parentheses](https://github.com/shriyanshisharmacse2024-bit/leetcode-submision/tree/master/0020-valid-parentheses) |
 | [0344-reverse-string](https://github.com/shriyanshisharmacse2024-bit/leetcode-submision/tree/master/0344-reverse-string) |
 | [0709-to-lower-case](https://github.com/shriyanshisharmacse2024-bit/leetcode-submision/tree/master/0709-to-lower-case) |
 | [1773-count-items-matching-a-rule](https://github.com/shriyanshisharmacse2024-bit/leetcode-submision/tree/master/1773-count-items-matching-a-rule) |
@@ -94,4 +95,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/shriyanshisharmacse2024-bit/leetcode-submision/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/shriyanshisharmacse2024-bit/leetcode-submision/tree/master/0020-valid-parentheses) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/shriyanshisharmacse2024-bit/leetcode-submision/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
