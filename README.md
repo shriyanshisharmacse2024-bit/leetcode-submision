@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0051-n-queens](https://github.com/shriyanshisharmacse2024-bit/leetcode-submision/tree/master/0051-n-queens) |
 | [0090-subsets-ii](https://github.com/shriyanshisharmacse2024-bit/leetcode-submision/tree/master/0090-subsets-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/shriyanshisharmacse2024-bit/leetcode-submision/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/shriyanshisharmacse2024-bit/leetcode-submision/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0162-find-peak-element](https://github.com/shriyanshisharmacse2024-bit/leetcode-submision/tree/master/0162-find-peak-element) |
 | [0217-contains-duplicate](https://github.com/shriyanshisharmacse2024-bit/leetcode-submision/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/shriyanshisharmacse2024-bit/leetcode-submision/tree/master/0283-move-zeroes) |
@@ -24,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/shriyanshisharmacse2024-bit/leetcode-submision/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/shriyanshisharmacse2024-bit/leetcode-submision/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 ## Hash Table
 |  |
 | ------- |
@@ -104,4 +106,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/shriyanshisharmacse2024-bit/leetcode-submision/tree/master/0020-valid-parentheses) |
+## Greedy
+|  |
+| ------- |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/shriyanshisharmacse2024-bit/leetcode-submision/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 <!---LeetCode Topics End-->
