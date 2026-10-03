@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0032-longest-valid-parentheses](https://github.com/shriyanshisharmacse2024-bit/leetcode-submision/tree/master/0032-longest-valid-parentheses) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/shriyanshisharmacse2024-bit/leetcode-submision/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/shriyanshisharmacse2024-bit/leetcode-submision/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 ## Hash Table
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/shriyanshisharmacse2024-bit/leetcode-submision/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0020-valid-parentheses](https://github.com/shriyanshisharmacse2024-bit/leetcode-submision/tree/master/0020-valid-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/shriyanshisharmacse2024-bit/leetcode-submision/tree/master/0032-longest-valid-parentheses) |
 | [0058-length-of-last-word](https://github.com/shriyanshisharmacse2024-bit/leetcode-submision/tree/master/0058-length-of-last-word) |
 | [0344-reverse-string](https://github.com/shriyanshisharmacse2024-bit/leetcode-submision/tree/master/0344-reverse-string) |
 | [0709-to-lower-case](https://github.com/shriyanshisharmacse2024-bit/leetcode-submision/tree/master/0709-to-lower-case) |
@@ -102,10 +104,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/shriyanshisharmacse2024-bit/leetcode-submision/tree/master/0020-valid-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/shriyanshisharmacse2024-bit/leetcode-submision/tree/master/0032-longest-valid-parentheses) |
 ## Bracket Sequences
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/shriyanshisharmacse2024-bit/leetcode-submision/tree/master/0020-valid-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/shriyanshisharmacse2024-bit/leetcode-submision/tree/master/0032-longest-valid-parentheses) |
 ## Greedy
 |  |
 | ------- |
