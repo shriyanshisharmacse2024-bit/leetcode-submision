@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/shriyanshisharmacse2024-bit/leetcode-submision/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0217-contains-duplicate](https://github.com/shriyanshisharmacse2024-bit/leetcode-submision/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/shriyanshisharmacse2024-bit/leetcode-submision/tree/master/0242-valid-anagram) |
 | [1512-number-of-good-pairs](https://github.com/shriyanshisharmacse2024-bit/leetcode-submision/tree/master/1512-number-of-good-pairs) |
 ## String
 |  |
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/shriyanshisharmacse2024-bit/leetcode-submision/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/shriyanshisharmacse2024-bit/leetcode-submision/tree/master/0032-longest-valid-parentheses) |
 | [0058-length-of-last-word](https://github.com/shriyanshisharmacse2024-bit/leetcode-submision/tree/master/0058-length-of-last-word) |
+| [0242-valid-anagram](https://github.com/shriyanshisharmacse2024-bit/leetcode-submision/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/shriyanshisharmacse2024-bit/leetcode-submision/tree/master/0344-reverse-string) |
 | [0709-to-lower-case](https://github.com/shriyanshisharmacse2024-bit/leetcode-submision/tree/master/0709-to-lower-case) |
 | [1773-count-items-matching-a-rule](https://github.com/shriyanshisharmacse2024-bit/leetcode-submision/tree/master/1773-count-items-matching-a-rule) |
@@ -81,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/shriyanshisharmacse2024-bit/leetcode-submision/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/shriyanshisharmacse2024-bit/leetcode-submision/tree/master/0242-valid-anagram) |
 | [0977-squares-of-a-sorted-array](https://github.com/shriyanshisharmacse2024-bit/leetcode-submision/tree/master/0977-squares-of-a-sorted-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/shriyanshisharmacse2024-bit/leetcode-submision/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Math
