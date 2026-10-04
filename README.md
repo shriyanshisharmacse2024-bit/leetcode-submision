@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/shriyanshisharmacse2024-bit/leetcode-submision/tree/master/0037-sudoku-solver) |
 | [0051-n-queens](https://github.com/shriyanshisharmacse2024-bit/leetcode-submision/tree/master/0051-n-queens) |
 | [0090-subsets-ii](https://github.com/shriyanshisharmacse2024-bit/leetcode-submision/tree/master/0090-subsets-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/shriyanshisharmacse2024-bit/leetcode-submision/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -31,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/shriyanshisharmacse2024-bit/leetcode-submision/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0037-sudoku-solver](https://github.com/shriyanshisharmacse2024-bit/leetcode-submision/tree/master/0037-sudoku-solver) |
 | [0217-contains-duplicate](https://github.com/shriyanshisharmacse2024-bit/leetcode-submision/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/shriyanshisharmacse2024-bit/leetcode-submision/tree/master/0242-valid-anagram) |
 | [0771-jewels-and-stones](https://github.com/shriyanshisharmacse2024-bit/leetcode-submision/tree/master/0771-jewels-and-stones) |
@@ -54,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/shriyanshisharmacse2024-bit/leetcode-submision/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0037-sudoku-solver](https://github.com/shriyanshisharmacse2024-bit/leetcode-submision/tree/master/0037-sudoku-solver) |
 | [0051-n-queens](https://github.com/shriyanshisharmacse2024-bit/leetcode-submision/tree/master/0051-n-queens) |
 | [0090-subsets-ii](https://github.com/shriyanshisharmacse2024-bit/leetcode-submision/tree/master/0090-subsets-ii) |
 ## Bit Manipulation
@@ -64,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Algorithm X
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/shriyanshisharmacse2024-bit/leetcode-submision/tree/master/0037-sudoku-solver) |
 | [0051-n-queens](https://github.com/shriyanshisharmacse2024-bit/leetcode-submision/tree/master/0051-n-queens) |
 ## Two Pointers
 |  |
@@ -75,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/shriyanshisharmacse2024-bit/leetcode-submision/tree/master/0037-sudoku-solver) |
 | [0832-flipping-an-image](https://github.com/shriyanshisharmacse2024-bit/leetcode-submision/tree/master/0832-flipping-an-image) |
 | [0867-transpose-matrix](https://github.com/shriyanshisharmacse2024-bit/leetcode-submision/tree/master/0867-transpose-matrix) |
 ## Simulation
@@ -121,4 +126,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/shriyanshisharmacse2024-bit/leetcode-submision/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+## Dancing Links
+|  |
+| ------- |
+| [0037-sudoku-solver](https://github.com/shriyanshisharmacse2024-bit/leetcode-submision/tree/master/0037-sudoku-solver) |
 <!---LeetCode Topics End-->
