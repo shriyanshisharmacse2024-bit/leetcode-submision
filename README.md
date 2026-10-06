@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0037-sudoku-solver](https://github.com/shriyanshisharmacse2024-bit/leetcode-submision/tree/master/0037-sudoku-solver) |
 | [0051-n-queens](https://github.com/shriyanshisharmacse2024-bit/leetcode-submision/tree/master/0051-n-queens) |
+| [0073-set-matrix-zeroes](https://github.com/shriyanshisharmacse2024-bit/leetcode-submision/tree/master/0073-set-matrix-zeroes) |
 | [0090-subsets-ii](https://github.com/shriyanshisharmacse2024-bit/leetcode-submision/tree/master/0090-subsets-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/shriyanshisharmacse2024-bit/leetcode-submision/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/shriyanshisharmacse2024-bit/leetcode-submision/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/shriyanshisharmacse2024-bit/leetcode-submision/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0037-sudoku-solver](https://github.com/shriyanshisharmacse2024-bit/leetcode-submision/tree/master/0037-sudoku-solver) |
+| [0073-set-matrix-zeroes](https://github.com/shriyanshisharmacse2024-bit/leetcode-submision/tree/master/0073-set-matrix-zeroes) |
 | [0217-contains-duplicate](https://github.com/shriyanshisharmacse2024-bit/leetcode-submision/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/shriyanshisharmacse2024-bit/leetcode-submision/tree/master/0242-valid-anagram) |
 | [0771-jewels-and-stones](https://github.com/shriyanshisharmacse2024-bit/leetcode-submision/tree/master/0771-jewels-and-stones) |
@@ -89,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/shriyanshisharmacse2024-bit/leetcode-submision/tree/master/0037-sudoku-solver) |
+| [0073-set-matrix-zeroes](https://github.com/shriyanshisharmacse2024-bit/leetcode-submision/tree/master/0073-set-matrix-zeroes) |
 | [0832-flipping-an-image](https://github.com/shriyanshisharmacse2024-bit/leetcode-submision/tree/master/0832-flipping-an-image) |
 | [0867-transpose-matrix](https://github.com/shriyanshisharmacse2024-bit/leetcode-submision/tree/master/0867-transpose-matrix) |
 ## Simulation
