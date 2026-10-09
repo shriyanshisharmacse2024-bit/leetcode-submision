@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1051-height-checker](https://github.com/shriyanshisharmacse2024-bit/leetcode-submision/tree/master/1051-height-checker) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/shriyanshisharmacse2024-bit/leetcode-submision/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1512-number-of-good-pairs](https://github.com/shriyanshisharmacse2024-bit/leetcode-submision/tree/master/1512-number-of-good-pairs) |
+| [1572-matrix-diagonal-sum](https://github.com/shriyanshisharmacse2024-bit/leetcode-submision/tree/master/1572-matrix-diagonal-sum) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/shriyanshisharmacse2024-bit/leetcode-submision/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1773-count-items-matching-a-rule](https://github.com/shriyanshisharmacse2024-bit/leetcode-submision/tree/master/1773-count-items-matching-a-rule) |
 | [1929-concatenation-of-array](https://github.com/shriyanshisharmacse2024-bit/leetcode-submision/tree/master/1929-concatenation-of-array) |
@@ -99,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0807-max-increase-to-keep-city-skyline](https://github.com/shriyanshisharmacse2024-bit/leetcode-submision/tree/master/0807-max-increase-to-keep-city-skyline) |
 | [0832-flipping-an-image](https://github.com/shriyanshisharmacse2024-bit/leetcode-submision/tree/master/0832-flipping-an-image) |
 | [0867-transpose-matrix](https://github.com/shriyanshisharmacse2024-bit/leetcode-submision/tree/master/0867-transpose-matrix) |
+| [1572-matrix-diagonal-sum](https://github.com/shriyanshisharmacse2024-bit/leetcode-submision/tree/master/1572-matrix-diagonal-sum) |
 ## Simulation
 |  |
 | ------- |
