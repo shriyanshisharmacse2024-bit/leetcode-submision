@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2185-counting-words-with-a-given-prefix](https://github.com/shriyanshisharmacse2024-bit/leetcode-submision/tree/master/2185-counting-words-with-a-given-prefix) |
 | [2255-count-prefixes-of-a-given-string](https://github.com/shriyanshisharmacse2024-bit/leetcode-submision/tree/master/2255-count-prefixes-of-a-given-string) |
 | [2942-find-words-containing-character](https://github.com/shriyanshisharmacse2024-bit/leetcode-submision/tree/master/2942-find-words-containing-character) |
+| [3232-find-if-digit-game-can-be-won](https://github.com/shriyanshisharmacse2024-bit/leetcode-submision/tree/master/3232-find-if-digit-game-can-be-won) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -129,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/shriyanshisharmacse2024-bit/leetcode-submision/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1512-number-of-good-pairs](https://github.com/shriyanshisharmacse2024-bit/leetcode-submision/tree/master/1512-number-of-good-pairs) |
+| [3232-find-if-digit-game-can-be-won](https://github.com/shriyanshisharmacse2024-bit/leetcode-submision/tree/master/3232-find-if-digit-game-can-be-won) |
 ## Counting
 |  |
 | ------- |
