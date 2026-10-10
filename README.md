@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0807-max-increase-to-keep-city-skyline](https://github.com/shriyanshisharmacse2024-bit/leetcode-submision/tree/master/0807-max-increase-to-keep-city-skyline) |
 | [0832-flipping-an-image](https://github.com/shriyanshisharmacse2024-bit/leetcode-submision/tree/master/0832-flipping-an-image) |
 | [0867-transpose-matrix](https://github.com/shriyanshisharmacse2024-bit/leetcode-submision/tree/master/0867-transpose-matrix) |
+| [0974-subarray-sums-divisible-by-k](https://github.com/shriyanshisharmacse2024-bit/leetcode-submision/tree/master/0974-subarray-sums-divisible-by-k) |
 | [0977-squares-of-a-sorted-array](https://github.com/shriyanshisharmacse2024-bit/leetcode-submision/tree/master/0977-squares-of-a-sorted-array) |
 | [1051-height-checker](https://github.com/shriyanshisharmacse2024-bit/leetcode-submision/tree/master/1051-height-checker) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/shriyanshisharmacse2024-bit/leetcode-submision/tree/master/1295-find-numbers-with-even-number-of-digits) |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/shriyanshisharmacse2024-bit/leetcode-submision/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/shriyanshisharmacse2024-bit/leetcode-submision/tree/master/0242-valid-anagram) |
 | [0771-jewels-and-stones](https://github.com/shriyanshisharmacse2024-bit/leetcode-submision/tree/master/0771-jewels-and-stones) |
+| [0974-subarray-sums-divisible-by-k](https://github.com/shriyanshisharmacse2024-bit/leetcode-submision/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1512-number-of-good-pairs](https://github.com/shriyanshisharmacse2024-bit/leetcode-submision/tree/master/1512-number-of-good-pairs) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/shriyanshisharmacse2024-bit/leetcode-submision/tree/master/1832-check-if-the-sentence-is-pangram) |
 ## String
@@ -175,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0974-subarray-sums-divisible-by-k](https://github.com/shriyanshisharmacse2024-bit/leetcode-submision/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1732-find-the-highest-altitude](https://github.com/shriyanshisharmacse2024-bit/leetcode-submision/tree/master/1732-find-the-highest-altitude) |
 ## Divide and Conquer
 |  |
