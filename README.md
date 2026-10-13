@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1929-concatenation-of-array](https://github.com/shriyanshisharmacse2024-bit/leetcode-submision/tree/master/1929-concatenation-of-array) |
 | [2185-counting-words-with-a-given-prefix](https://github.com/shriyanshisharmacse2024-bit/leetcode-submision/tree/master/2185-counting-words-with-a-given-prefix) |
 | [2255-count-prefixes-of-a-given-string](https://github.com/shriyanshisharmacse2024-bit/leetcode-submision/tree/master/2255-count-prefixes-of-a-given-string) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/shriyanshisharmacse2024-bit/leetcode-submision/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2942-find-words-containing-character](https://github.com/shriyanshisharmacse2024-bit/leetcode-submision/tree/master/2942-find-words-containing-character) |
 | [3232-find-if-digit-game-can-be-won](https://github.com/shriyanshisharmacse2024-bit/leetcode-submision/tree/master/3232-find-if-digit-game-can-be-won) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/shriyanshisharmacse2024-bit/leetcode-submision/tree/master/3727-maximum-alternating-sum-of-squares) |
@@ -200,4 +201,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/shriyanshisharmacse2024-bit/leetcode-submision/tree/master/0169-majority-element) |
+## Enumeration
+|  |
+| ------- |
+| [2778-sum-of-squares-of-special-elements](https://github.com/shriyanshisharmacse2024-bit/leetcode-submision/tree/master/2778-sum-of-squares-of-special-elements) |
 <!---LeetCode Topics End-->
