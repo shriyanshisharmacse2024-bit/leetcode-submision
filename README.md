@@ -143,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1512-number-of-good-pairs](https://github.com/shriyanshisharmacse2024-bit/leetcode-submision/tree/master/1512-number-of-good-pairs) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/shriyanshisharmacse2024-bit/leetcode-submision/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [3232-find-if-digit-game-can-be-won](https://github.com/shriyanshisharmacse2024-bit/leetcode-submision/tree/master/3232-find-if-digit-game-can-be-won) |
+| [3723-maximize-sum-of-squares-of-digits](https://github.com/shriyanshisharmacse2024-bit/leetcode-submision/tree/master/3723-maximize-sum-of-squares-of-digits) |
 ## Counting
 |  |
 | ------- |
@@ -173,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/shriyanshisharmacse2024-bit/leetcode-submision/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0807-max-increase-to-keep-city-skyline](https://github.com/shriyanshisharmacse2024-bit/leetcode-submision/tree/master/0807-max-increase-to-keep-city-skyline) |
+| [3723-maximize-sum-of-squares-of-digits](https://github.com/shriyanshisharmacse2024-bit/leetcode-submision/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/shriyanshisharmacse2024-bit/leetcode-submision/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Dancing Links
 |  |
