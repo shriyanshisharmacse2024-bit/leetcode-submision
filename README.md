@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/shriyanshisharmacse2024-bit/leetcode-submision/tree/master/0001-two-sum) |
 | [0037-sudoku-solver](https://github.com/shriyanshisharmacse2024-bit/leetcode-submision/tree/master/0037-sudoku-solver) |
 | [0051-n-queens](https://github.com/shriyanshisharmacse2024-bit/leetcode-submision/tree/master/0051-n-queens) |
 | [0054-spiral-matrix](https://github.com/shriyanshisharmacse2024-bit/leetcode-submision/tree/master/0054-spiral-matrix) |
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/shriyanshisharmacse2024-bit/leetcode-submision/tree/master/0001-two-sum) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/shriyanshisharmacse2024-bit/leetcode-submision/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0037-sudoku-solver](https://github.com/shriyanshisharmacse2024-bit/leetcode-submision/tree/master/0037-sudoku-solver) |
 | [0073-set-matrix-zeroes](https://github.com/shriyanshisharmacse2024-bit/leetcode-submision/tree/master/0073-set-matrix-zeroes) |
