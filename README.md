@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0037-sudoku-solver](https://github.com/shriyanshisharmacse2024-bit/leetcode-submision/tree/master/0037-sudoku-solver) |
 | [0073-set-matrix-zeroes](https://github.com/shriyanshisharmacse2024-bit/leetcode-submision/tree/master/0073-set-matrix-zeroes) |
 | [0169-majority-element](https://github.com/shriyanshisharmacse2024-bit/leetcode-submision/tree/master/0169-majority-element) |
+| [0202-happy-number](https://github.com/shriyanshisharmacse2024-bit/leetcode-submision/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/shriyanshisharmacse2024-bit/leetcode-submision/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/shriyanshisharmacse2024-bit/leetcode-submision/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/shriyanshisharmacse2024-bit/leetcode-submision/tree/master/0268-missing-number) |
@@ -102,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0202-happy-number](https://github.com/shriyanshisharmacse2024-bit/leetcode-submision/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/shriyanshisharmacse2024-bit/leetcode-submision/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/shriyanshisharmacse2024-bit/leetcode-submision/tree/master/0344-reverse-string) |
 | [0443-string-compression](https://github.com/shriyanshisharmacse2024-bit/leetcode-submision/tree/master/0443-string-compression) |
@@ -138,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0202-happy-number](https://github.com/shriyanshisharmacse2024-bit/leetcode-submision/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/shriyanshisharmacse2024-bit/leetcode-submision/tree/master/0268-missing-number) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/shriyanshisharmacse2024-bit/leetcode-submision/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1512-number-of-good-pairs](https://github.com/shriyanshisharmacse2024-bit/leetcode-submision/tree/master/1512-number-of-good-pairs) |
@@ -210,4 +213,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2778-sum-of-squares-of-special-elements](https://github.com/shriyanshisharmacse2024-bit/leetcode-submision/tree/master/2778-sum-of-squares-of-special-elements) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0202-happy-number](https://github.com/shriyanshisharmacse2024-bit/leetcode-submision/tree/master/0202-happy-number) |
 <!---LeetCode Topics End-->
