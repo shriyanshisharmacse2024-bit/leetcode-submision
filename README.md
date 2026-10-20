@@ -177,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/shriyanshisharmacse2024-bit/leetcode-submision/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/shriyanshisharmacse2024-bit/leetcode-submision/tree/master/0032-longest-valid-parentheses) |
 | [0496-next-greater-element-i](https://github.com/shriyanshisharmacse2024-bit/leetcode-submision/tree/master/0496-next-greater-element-i) |
+| [2487-remove-nodes-from-linked-list](https://github.com/shriyanshisharmacse2024-bit/leetcode-submision/tree/master/2487-remove-nodes-from-linked-list) |
 ## Bracket Sequences
 |  |
 | ------- |
@@ -231,12 +232,15 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/shriyanshisharmacse2024-bit/leetcode-submision/tree/master/0496-next-greater-element-i) |
+| [2487-remove-nodes-from-linked-list](https://github.com/shriyanshisharmacse2024-bit/leetcode-submision/tree/master/2487-remove-nodes-from-linked-list) |
 ## Linked List
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/shriyanshisharmacse2024-bit/leetcode-submision/tree/master/0206-reverse-linked-list) |
+| [2487-remove-nodes-from-linked-list](https://github.com/shriyanshisharmacse2024-bit/leetcode-submision/tree/master/2487-remove-nodes-from-linked-list) |
 ## Recursion
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/shriyanshisharmacse2024-bit/leetcode-submision/tree/master/0206-reverse-linked-list) |
+| [2487-remove-nodes-from-linked-list](https://github.com/shriyanshisharmacse2024-bit/leetcode-submision/tree/master/2487-remove-nodes-from-linked-list) |
 <!---LeetCode Topics End-->
