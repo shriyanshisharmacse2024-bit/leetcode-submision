@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1732-find-the-highest-altitude](https://github.com/shriyanshisharmacse2024-bit/leetcode-submision/tree/master/1732-find-the-highest-altitude) |
 | [1773-count-items-matching-a-rule](https://github.com/shriyanshisharmacse2024-bit/leetcode-submision/tree/master/1773-count-items-matching-a-rule) |
 | [1929-concatenation-of-array](https://github.com/shriyanshisharmacse2024-bit/leetcode-submision/tree/master/1929-concatenation-of-array) |
+| [1991-find-the-middle-index-in-array](https://github.com/shriyanshisharmacse2024-bit/leetcode-submision/tree/master/1991-find-the-middle-index-in-array) |
 | [2185-counting-words-with-a-given-prefix](https://github.com/shriyanshisharmacse2024-bit/leetcode-submision/tree/master/2185-counting-words-with-a-given-prefix) |
 | [2255-count-prefixes-of-a-given-string](https://github.com/shriyanshisharmacse2024-bit/leetcode-submision/tree/master/2255-count-prefixes-of-a-given-string) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/shriyanshisharmacse2024-bit/leetcode-submision/tree/master/2778-sum-of-squares-of-special-elements) |
@@ -215,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0974-subarray-sums-divisible-by-k](https://github.com/shriyanshisharmacse2024-bit/leetcode-submision/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/shriyanshisharmacse2024-bit/leetcode-submision/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [1732-find-the-highest-altitude](https://github.com/shriyanshisharmacse2024-bit/leetcode-submision/tree/master/1732-find-the-highest-altitude) |
+| [1991-find-the-middle-index-in-array](https://github.com/shriyanshisharmacse2024-bit/leetcode-submision/tree/master/1991-find-the-middle-index-in-array) |
 ## Divide and Conquer
 |  |
 | ------- |
