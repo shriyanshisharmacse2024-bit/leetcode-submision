@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0051-n-queens](https://github.com/shriyanshisharmacse2024-bit/leetcode-submision/tree/master/0051-n-queens) |
 | [0054-spiral-matrix](https://github.com/shriyanshisharmacse2024-bit/leetcode-submision/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/shriyanshisharmacse2024-bit/leetcode-submision/tree/master/0073-set-matrix-zeroes) |
+| [0075-sort-colors](https://github.com/shriyanshisharmacse2024-bit/leetcode-submision/tree/master/0075-sort-colors) |
 | [0090-subsets-ii](https://github.com/shriyanshisharmacse2024-bit/leetcode-submision/tree/master/0090-subsets-ii) |
 | [0118-pascals-triangle](https://github.com/shriyanshisharmacse2024-bit/leetcode-submision/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/shriyanshisharmacse2024-bit/leetcode-submision/tree/master/0119-pascals-triangle-ii) |
@@ -115,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/shriyanshisharmacse2024-bit/leetcode-submision/tree/master/0075-sort-colors) |
 | [0202-happy-number](https://github.com/shriyanshisharmacse2024-bit/leetcode-submision/tree/master/0202-happy-number) |
 | [0234-palindrome-linked-list](https://github.com/shriyanshisharmacse2024-bit/leetcode-submision/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/shriyanshisharmacse2024-bit/leetcode-submision/tree/master/0283-move-zeroes) |
@@ -148,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/shriyanshisharmacse2024-bit/leetcode-submision/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/shriyanshisharmacse2024-bit/leetcode-submision/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/shriyanshisharmacse2024-bit/leetcode-submision/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/shriyanshisharmacse2024-bit/leetcode-submision/tree/master/0242-valid-anagram) |
@@ -223,6 +226,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bubble Sort
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/shriyanshisharmacse2024-bit/leetcode-submision/tree/master/0075-sort-colors) |
 | [1051-height-checker](https://github.com/shriyanshisharmacse2024-bit/leetcode-submision/tree/master/1051-height-checker) |
 ## Prefix Sum
 |  |
@@ -273,5 +277,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Quicksort
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/shriyanshisharmacse2024-bit/leetcode-submision/tree/master/0075-sort-colors) |
 | [0455-assign-cookies](https://github.com/shriyanshisharmacse2024-bit/leetcode-submision/tree/master/0455-assign-cookies) |
 <!---LeetCode Topics End-->
