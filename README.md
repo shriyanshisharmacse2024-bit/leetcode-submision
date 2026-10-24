@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/shriyanshisharmacse2024-bit/leetcode-submision/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/shriyanshisharmacse2024-bit/leetcode-submision/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/shriyanshisharmacse2024-bit/leetcode-submision/tree/master/0075-sort-colors) |
+| [0088-merge-sorted-array](https://github.com/shriyanshisharmacse2024-bit/leetcode-submision/tree/master/0088-merge-sorted-array) |
 | [0090-subsets-ii](https://github.com/shriyanshisharmacse2024-bit/leetcode-submision/tree/master/0090-subsets-ii) |
 | [0118-pascals-triangle](https://github.com/shriyanshisharmacse2024-bit/leetcode-submision/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/shriyanshisharmacse2024-bit/leetcode-submision/tree/master/0119-pascals-triangle-ii) |
@@ -119,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/shriyanshisharmacse2024-bit/leetcode-submision/tree/master/0075-sort-colors) |
+| [0088-merge-sorted-array](https://github.com/shriyanshisharmacse2024-bit/leetcode-submision/tree/master/0088-merge-sorted-array) |
 | [0141-linked-list-cycle](https://github.com/shriyanshisharmacse2024-bit/leetcode-submision/tree/master/0141-linked-list-cycle) |
 | [0202-happy-number](https://github.com/shriyanshisharmacse2024-bit/leetcode-submision/tree/master/0202-happy-number) |
 | [0234-palindrome-linked-list](https://github.com/shriyanshisharmacse2024-bit/leetcode-submision/tree/master/0234-palindrome-linked-list) |
@@ -154,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/shriyanshisharmacse2024-bit/leetcode-submision/tree/master/0075-sort-colors) |
+| [0088-merge-sorted-array](https://github.com/shriyanshisharmacse2024-bit/leetcode-submision/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/shriyanshisharmacse2024-bit/leetcode-submision/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/shriyanshisharmacse2024-bit/leetcode-submision/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/shriyanshisharmacse2024-bit/leetcode-submision/tree/master/0242-valid-anagram) |
