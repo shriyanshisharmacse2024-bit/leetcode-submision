@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/shriyanshisharmacse2024-bit/leetcode-submision/tree/master/0001-two-sum) |
 | [0037-sudoku-solver](https://github.com/shriyanshisharmacse2024-bit/leetcode-submision/tree/master/0037-sudoku-solver) |
+| [0048-rotate-image](https://github.com/shriyanshisharmacse2024-bit/leetcode-submision/tree/master/0048-rotate-image) |
 | [0051-n-queens](https://github.com/shriyanshisharmacse2024-bit/leetcode-submision/tree/master/0051-n-queens) |
 | [0054-spiral-matrix](https://github.com/shriyanshisharmacse2024-bit/leetcode-submision/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/shriyanshisharmacse2024-bit/leetcode-submision/tree/master/0073-set-matrix-zeroes) |
@@ -137,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/shriyanshisharmacse2024-bit/leetcode-submision/tree/master/0037-sudoku-solver) |
+| [0048-rotate-image](https://github.com/shriyanshisharmacse2024-bit/leetcode-submision/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/shriyanshisharmacse2024-bit/leetcode-submision/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/shriyanshisharmacse2024-bit/leetcode-submision/tree/master/0073-set-matrix-zeroes) |
 | [0498-diagonal-traverse](https://github.com/shriyanshisharmacse2024-bit/leetcode-submision/tree/master/0498-diagonal-traverse) |
@@ -174,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/shriyanshisharmacse2024-bit/leetcode-submision/tree/master/0009-palindrome-number) |
+| [0048-rotate-image](https://github.com/shriyanshisharmacse2024-bit/leetcode-submision/tree/master/0048-rotate-image) |
 | [0202-happy-number](https://github.com/shriyanshisharmacse2024-bit/leetcode-submision/tree/master/0202-happy-number) |
 | [0263-ugly-number](https://github.com/shriyanshisharmacse2024-bit/leetcode-submision/tree/master/0263-ugly-number) |
 | [0268-missing-number](https://github.com/shriyanshisharmacse2024-bit/leetcode-submision/tree/master/0268-missing-number) |
