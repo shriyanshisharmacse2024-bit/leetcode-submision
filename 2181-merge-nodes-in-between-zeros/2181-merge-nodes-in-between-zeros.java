@@ -2,25 +2,22 @@
 class Solution {
     public ListNode mergeNodes(ListNode head) {
 
-        ListNode ans = new ListNode(0);
-        ListNode curr = ans;
-
-        int sum = 0;
-        head = head.next;
-
-        while (head != null) {
-
-            if (head.val != 0) {
-                sum = sum + head.val;
-            } else {
-                curr.next = new ListNode(sum);
-                curr = curr.next;
-                sum = 0;
-            }
-
-            head = head.next;
+        ListNode fast = head.next;
+        
+        ListNode slow = head;
+        while(fast != null){
+            int sum = 0;
+        while(fast.val != 0){
+            sum += fast.val;
+            fast = fast.next;
+        }slow.val = sum;
+            slow.next= fast.next;
+            slow = slow.next;
+            fast = fast.next;
         }
+        
+        return head;
 
-        return ans.next;
+} 
     }
-}
+
