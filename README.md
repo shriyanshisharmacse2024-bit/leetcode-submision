@@ -99,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0771-jewels-and-stones](https://github.com/shriyanshisharmacse2024-bit/leetcode-submision/tree/master/0771-jewels-and-stones) |
 | [1108-defanging-an-ip-address](https://github.com/shriyanshisharmacse2024-bit/leetcode-submision/tree/master/1108-defanging-an-ip-address) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/shriyanshisharmacse2024-bit/leetcode-submision/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
+| [1704-determine-if-string-halves-are-alike](https://github.com/shriyanshisharmacse2024-bit/leetcode-submision/tree/master/1704-determine-if-string-halves-are-alike) |
 | [1773-count-items-matching-a-rule](https://github.com/shriyanshisharmacse2024-bit/leetcode-submision/tree/master/1773-count-items-matching-a-rule) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/shriyanshisharmacse2024-bit/leetcode-submision/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2185-counting-words-with-a-given-prefix](https://github.com/shriyanshisharmacse2024-bit/leetcode-submision/tree/master/2185-counting-words-with-a-given-prefix) |
@@ -197,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/shriyanshisharmacse2024-bit/leetcode-submision/tree/master/0169-majority-element) |
 | [1512-number-of-good-pairs](https://github.com/shriyanshisharmacse2024-bit/leetcode-submision/tree/master/1512-number-of-good-pairs) |
+| [1704-determine-if-string-halves-are-alike](https://github.com/shriyanshisharmacse2024-bit/leetcode-submision/tree/master/1704-determine-if-string-halves-are-alike) |
 ## Binary Search
 |  |
 | ------- |
