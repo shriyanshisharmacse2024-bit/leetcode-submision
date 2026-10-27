@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/shriyanshisharmacse2024-bit/leetcode-submision/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/shriyanshisharmacse2024-bit/leetcode-submision/tree/master/0496-next-greater-element-i) |
 | [0498-diagonal-traverse](https://github.com/shriyanshisharmacse2024-bit/leetcode-submision/tree/master/0498-diagonal-traverse) |
+| [0500-keyboard-row](https://github.com/shriyanshisharmacse2024-bit/leetcode-submision/tree/master/0500-keyboard-row) |
 | [0704-binary-search](https://github.com/shriyanshisharmacse2024-bit/leetcode-submision/tree/master/0704-binary-search) |
 | [0766-toeplitz-matrix](https://github.com/shriyanshisharmacse2024-bit/leetcode-submision/tree/master/0766-toeplitz-matrix) |
 | [0807-max-increase-to-keep-city-skyline](https://github.com/shriyanshisharmacse2024-bit/leetcode-submision/tree/master/0807-max-increase-to-keep-city-skyline) |
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/shriyanshisharmacse2024-bit/leetcode-submision/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/shriyanshisharmacse2024-bit/leetcode-submision/tree/master/0268-missing-number) |
 | [0496-next-greater-element-i](https://github.com/shriyanshisharmacse2024-bit/leetcode-submision/tree/master/0496-next-greater-element-i) |
+| [0500-keyboard-row](https://github.com/shriyanshisharmacse2024-bit/leetcode-submision/tree/master/0500-keyboard-row) |
 | [0771-jewels-and-stones](https://github.com/shriyanshisharmacse2024-bit/leetcode-submision/tree/master/0771-jewels-and-stones) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/shriyanshisharmacse2024-bit/leetcode-submision/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1512-number-of-good-pairs](https://github.com/shriyanshisharmacse2024-bit/leetcode-submision/tree/master/1512-number-of-good-pairs) |
@@ -92,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/shriyanshisharmacse2024-bit/leetcode-submision/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/shriyanshisharmacse2024-bit/leetcode-submision/tree/master/0344-reverse-string) |
 | [0443-string-compression](https://github.com/shriyanshisharmacse2024-bit/leetcode-submision/tree/master/0443-string-compression) |
+| [0500-keyboard-row](https://github.com/shriyanshisharmacse2024-bit/leetcode-submision/tree/master/0500-keyboard-row) |
 | [0709-to-lower-case](https://github.com/shriyanshisharmacse2024-bit/leetcode-submision/tree/master/0709-to-lower-case) |
 | [0771-jewels-and-stones](https://github.com/shriyanshisharmacse2024-bit/leetcode-submision/tree/master/0771-jewels-and-stones) |
 | [1108-defanging-an-ip-address](https://github.com/shriyanshisharmacse2024-bit/leetcode-submision/tree/master/1108-defanging-an-ip-address) |
