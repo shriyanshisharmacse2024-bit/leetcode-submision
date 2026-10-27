@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/shriyanshisharmacse2024-bit/leetcode-submision/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/shriyanshisharmacse2024-bit/leetcode-submision/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/shriyanshisharmacse2024-bit/leetcode-submision/tree/master/0268-missing-number) |
+| [0383-ransom-note](https://github.com/shriyanshisharmacse2024-bit/leetcode-submision/tree/master/0383-ransom-note) |
 | [0496-next-greater-element-i](https://github.com/shriyanshisharmacse2024-bit/leetcode-submision/tree/master/0496-next-greater-element-i) |
 | [0500-keyboard-row](https://github.com/shriyanshisharmacse2024-bit/leetcode-submision/tree/master/0500-keyboard-row) |
 | [0771-jewels-and-stones](https://github.com/shriyanshisharmacse2024-bit/leetcode-submision/tree/master/0771-jewels-and-stones) |
@@ -93,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0058-length-of-last-word](https://github.com/shriyanshisharmacse2024-bit/leetcode-submision/tree/master/0058-length-of-last-word) |
 | [0242-valid-anagram](https://github.com/shriyanshisharmacse2024-bit/leetcode-submision/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/shriyanshisharmacse2024-bit/leetcode-submision/tree/master/0344-reverse-string) |
+| [0383-ransom-note](https://github.com/shriyanshisharmacse2024-bit/leetcode-submision/tree/master/0383-ransom-note) |
 | [0443-string-compression](https://github.com/shriyanshisharmacse2024-bit/leetcode-submision/tree/master/0443-string-compression) |
 | [0500-keyboard-row](https://github.com/shriyanshisharmacse2024-bit/leetcode-submision/tree/master/0500-keyboard-row) |
 | [0709-to-lower-case](https://github.com/shriyanshisharmacse2024-bit/leetcode-submision/tree/master/0709-to-lower-case) |
@@ -197,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/shriyanshisharmacse2024-bit/leetcode-submision/tree/master/0169-majority-element) |
+| [0383-ransom-note](https://github.com/shriyanshisharmacse2024-bit/leetcode-submision/tree/master/0383-ransom-note) |
 | [1512-number-of-good-pairs](https://github.com/shriyanshisharmacse2024-bit/leetcode-submision/tree/master/1512-number-of-good-pairs) |
 | [1704-determine-if-string-halves-are-alike](https://github.com/shriyanshisharmacse2024-bit/leetcode-submision/tree/master/1704-determine-if-string-halves-are-alike) |
 ## Binary Search
