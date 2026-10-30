@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/shriyanshisharmacse2024-bit/leetcode-submision/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/shriyanshisharmacse2024-bit/leetcode-submision/tree/master/0004-median-of-two-sorted-arrays) |
+| [0031-next-permutation](https://github.com/shriyanshisharmacse2024-bit/leetcode-submision/tree/master/0031-next-permutation) |
 | [0037-sudoku-solver](https://github.com/shriyanshisharmacse2024-bit/leetcode-submision/tree/master/0037-sudoku-solver) |
 | [0048-rotate-image](https://github.com/shriyanshisharmacse2024-bit/leetcode-submision/tree/master/0048-rotate-image) |
 | [0051-n-queens](https://github.com/shriyanshisharmacse2024-bit/leetcode-submision/tree/master/0051-n-queens) |
@@ -132,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/shriyanshisharmacse2024-bit/leetcode-submision/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0031-next-permutation](https://github.com/shriyanshisharmacse2024-bit/leetcode-submision/tree/master/0031-next-permutation) |
 | [0061-rotate-list](https://github.com/shriyanshisharmacse2024-bit/leetcode-submision/tree/master/0061-rotate-list) |
 | [0075-sort-colors](https://github.com/shriyanshisharmacse2024-bit/leetcode-submision/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/shriyanshisharmacse2024-bit/leetcode-submision/tree/master/0088-merge-sorted-array) |
