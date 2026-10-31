@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0977-squares-of-a-sorted-array](https://github.com/shriyanshisharmacse2024-bit/leetcode-submision/tree/master/0977-squares-of-a-sorted-array) |
 | [1051-height-checker](https://github.com/shriyanshisharmacse2024-bit/leetcode-submision/tree/master/1051-height-checker) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/shriyanshisharmacse2024-bit/leetcode-submision/tree/master/1295-find-numbers-with-even-number-of-digits) |
+| [1394-find-lucky-integer-in-an-array](https://github.com/shriyanshisharmacse2024-bit/leetcode-submision/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/shriyanshisharmacse2024-bit/leetcode-submision/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1470-shuffle-the-array](https://github.com/shriyanshisharmacse2024-bit/leetcode-submision/tree/master/1470-shuffle-the-array) |
 | [1512-number-of-good-pairs](https://github.com/shriyanshisharmacse2024-bit/leetcode-submision/tree/master/1512-number-of-good-pairs) |
@@ -86,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0500-keyboard-row](https://github.com/shriyanshisharmacse2024-bit/leetcode-submision/tree/master/0500-keyboard-row) |
 | [0771-jewels-and-stones](https://github.com/shriyanshisharmacse2024-bit/leetcode-submision/tree/master/0771-jewels-and-stones) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/shriyanshisharmacse2024-bit/leetcode-submision/tree/master/0974-subarray-sums-divisible-by-k) |
+| [1394-find-lucky-integer-in-an-array](https://github.com/shriyanshisharmacse2024-bit/leetcode-submision/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1512-number-of-good-pairs](https://github.com/shriyanshisharmacse2024-bit/leetcode-submision/tree/master/1512-number-of-good-pairs) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/shriyanshisharmacse2024-bit/leetcode-submision/tree/master/1832-check-if-the-sentence-is-pangram) |
 ## String
@@ -209,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/shriyanshisharmacse2024-bit/leetcode-submision/tree/master/0169-majority-element) |
 | [0383-ransom-note](https://github.com/shriyanshisharmacse2024-bit/leetcode-submision/tree/master/0383-ransom-note) |
+| [1394-find-lucky-integer-in-an-array](https://github.com/shriyanshisharmacse2024-bit/leetcode-submision/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1512-number-of-good-pairs](https://github.com/shriyanshisharmacse2024-bit/leetcode-submision/tree/master/1512-number-of-good-pairs) |
 | [1704-determine-if-string-halves-are-alike](https://github.com/shriyanshisharmacse2024-bit/leetcode-submision/tree/master/1704-determine-if-string-halves-are-alike) |
 ## Binary Search
