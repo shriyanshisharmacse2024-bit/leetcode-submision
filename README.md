@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0051-n-queens](https://github.com/shriyanshisharmacse2024-bit/leetcode-submision/tree/master/0051-n-queens) |
 | [0054-spiral-matrix](https://github.com/shriyanshisharmacse2024-bit/leetcode-submision/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/shriyanshisharmacse2024-bit/leetcode-submision/tree/master/0073-set-matrix-zeroes) |
+| [0074-search-a-2d-matrix](https://github.com/shriyanshisharmacse2024-bit/leetcode-submision/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/shriyanshisharmacse2024-bit/leetcode-submision/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/shriyanshisharmacse2024-bit/leetcode-submision/tree/master/0088-merge-sorted-array) |
 | [0090-subsets-ii](https://github.com/shriyanshisharmacse2024-bit/leetcode-submision/tree/master/0090-subsets-ii) |
@@ -162,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/shriyanshisharmacse2024-bit/leetcode-submision/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/shriyanshisharmacse2024-bit/leetcode-submision/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/shriyanshisharmacse2024-bit/leetcode-submision/tree/master/0073-set-matrix-zeroes) |
+| [0074-search-a-2d-matrix](https://github.com/shriyanshisharmacse2024-bit/leetcode-submision/tree/master/0074-search-a-2d-matrix) |
 | [0498-diagonal-traverse](https://github.com/shriyanshisharmacse2024-bit/leetcode-submision/tree/master/0498-diagonal-traverse) |
 | [0661-image-smoother](https://github.com/shriyanshisharmacse2024-bit/leetcode-submision/tree/master/0661-image-smoother) |
 | [0766-toeplitz-matrix](https://github.com/shriyanshisharmacse2024-bit/leetcode-submision/tree/master/0766-toeplitz-matrix) |
@@ -222,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/shriyanshisharmacse2024-bit/leetcode-submision/tree/master/0004-median-of-two-sorted-arrays) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/shriyanshisharmacse2024-bit/leetcode-submision/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0074-search-a-2d-matrix](https://github.com/shriyanshisharmacse2024-bit/leetcode-submision/tree/master/0074-search-a-2d-matrix) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/shriyanshisharmacse2024-bit/leetcode-submision/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/shriyanshisharmacse2024-bit/leetcode-submision/tree/master/0162-find-peak-element) |
 | [0268-missing-number](https://github.com/shriyanshisharmacse2024-bit/leetcode-submision/tree/master/0268-missing-number) |
