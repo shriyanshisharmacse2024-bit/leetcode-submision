@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1773-count-items-matching-a-rule](https://github.com/shriyanshisharmacse2024-bit/leetcode-submision/tree/master/1773-count-items-matching-a-rule) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/shriyanshisharmacse2024-bit/leetcode-submision/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [1929-concatenation-of-array](https://github.com/shriyanshisharmacse2024-bit/leetcode-submision/tree/master/1929-concatenation-of-array) |
+| [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/shriyanshisharmacse2024-bit/leetcode-submision/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1991-find-the-middle-index-in-array](https://github.com/shriyanshisharmacse2024-bit/leetcode-submision/tree/master/1991-find-the-middle-index-in-array) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/shriyanshisharmacse2024-bit/leetcode-submision/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2185-counting-words-with-a-given-prefix](https://github.com/shriyanshisharmacse2024-bit/leetcode-submision/tree/master/2185-counting-words-with-a-given-prefix) |
@@ -115,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1704-determine-if-string-halves-are-alike](https://github.com/shriyanshisharmacse2024-bit/leetcode-submision/tree/master/1704-determine-if-string-halves-are-alike) |
 | [1773-count-items-matching-a-rule](https://github.com/shriyanshisharmacse2024-bit/leetcode-submision/tree/master/1773-count-items-matching-a-rule) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/shriyanshisharmacse2024-bit/leetcode-submision/tree/master/1832-check-if-the-sentence-is-pangram) |
+| [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/shriyanshisharmacse2024-bit/leetcode-submision/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2185-counting-words-with-a-given-prefix](https://github.com/shriyanshisharmacse2024-bit/leetcode-submision/tree/master/2185-counting-words-with-a-given-prefix) |
 | [2255-count-prefixes-of-a-given-string](https://github.com/shriyanshisharmacse2024-bit/leetcode-submision/tree/master/2255-count-prefixes-of-a-given-string) |
 | [2942-find-words-containing-character](https://github.com/shriyanshisharmacse2024-bit/leetcode-submision/tree/master/2942-find-words-containing-character) |
