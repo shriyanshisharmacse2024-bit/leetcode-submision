@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0977-squares-of-a-sorted-array](https://github.com/shriyanshisharmacse2024-bit/leetcode-submision/tree/master/0977-squares-of-a-sorted-array) |
 | [1051-height-checker](https://github.com/shriyanshisharmacse2024-bit/leetcode-submision/tree/master/1051-height-checker) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/shriyanshisharmacse2024-bit/leetcode-submision/tree/master/1295-find-numbers-with-even-number-of-digits) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/shriyanshisharmacse2024-bit/leetcode-submision/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/shriyanshisharmacse2024-bit/leetcode-submision/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/shriyanshisharmacse2024-bit/leetcode-submision/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1470-shuffle-the-array](https://github.com/shriyanshisharmacse2024-bit/leetcode-submision/tree/master/1470-shuffle-the-array) |
@@ -159,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0876-middle-of-the-linked-list](https://github.com/shriyanshisharmacse2024-bit/leetcode-submision/tree/master/0876-middle-of-the-linked-list) |
 | [0881-boats-to-save-people](https://github.com/shriyanshisharmacse2024-bit/leetcode-submision/tree/master/0881-boats-to-save-people) |
 | [0977-squares-of-a-sorted-array](https://github.com/shriyanshisharmacse2024-bit/leetcode-submision/tree/master/0977-squares-of-a-sorted-array) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/shriyanshisharmacse2024-bit/leetcode-submision/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/shriyanshisharmacse2024-bit/leetcode-submision/tree/master/1721-swapping-nodes-in-a-linked-list) |
 ## Matrix
 |  |
@@ -199,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0881-boats-to-save-people](https://github.com/shriyanshisharmacse2024-bit/leetcode-submision/tree/master/0881-boats-to-save-people) |
 | [0977-squares-of-a-sorted-array](https://github.com/shriyanshisharmacse2024-bit/leetcode-submision/tree/master/0977-squares-of-a-sorted-array) |
 | [1051-height-checker](https://github.com/shriyanshisharmacse2024-bit/leetcode-submision/tree/master/1051-height-checker) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/shriyanshisharmacse2024-bit/leetcode-submision/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/shriyanshisharmacse2024-bit/leetcode-submision/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/shriyanshisharmacse2024-bit/leetcode-submision/tree/master/2089-find-target-indices-after-sorting-array) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/shriyanshisharmacse2024-bit/leetcode-submision/tree/master/3727-maximum-alternating-sum-of-squares) |
@@ -235,6 +238,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/shriyanshisharmacse2024-bit/leetcode-submision/tree/master/0162-find-peak-element) |
 | [0268-missing-number](https://github.com/shriyanshisharmacse2024-bit/leetcode-submision/tree/master/0268-missing-number) |
 | [0704-binary-search](https://github.com/shriyanshisharmacse2024-bit/leetcode-submision/tree/master/0704-binary-search) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/shriyanshisharmacse2024-bit/leetcode-submision/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/shriyanshisharmacse2024-bit/leetcode-submision/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Heap (Priority Queue)
 |  |
