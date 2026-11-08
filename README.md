@@ -90,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/shriyanshisharmacse2024-bit/leetcode-submision/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/shriyanshisharmacse2024-bit/leetcode-submision/tree/master/0268-missing-number) |
 | [0383-ransom-note](https://github.com/shriyanshisharmacse2024-bit/leetcode-submision/tree/master/0383-ransom-note) |
+| [0387-first-unique-character-in-a-string](https://github.com/shriyanshisharmacse2024-bit/leetcode-submision/tree/master/0387-first-unique-character-in-a-string) |
 | [0496-next-greater-element-i](https://github.com/shriyanshisharmacse2024-bit/leetcode-submision/tree/master/0496-next-greater-element-i) |
 | [0500-keyboard-row](https://github.com/shriyanshisharmacse2024-bit/leetcode-submision/tree/master/0500-keyboard-row) |
 | [0771-jewels-and-stones](https://github.com/shriyanshisharmacse2024-bit/leetcode-submision/tree/master/0771-jewels-and-stones) |
@@ -107,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/shriyanshisharmacse2024-bit/leetcode-submision/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/shriyanshisharmacse2024-bit/leetcode-submision/tree/master/0344-reverse-string) |
 | [0383-ransom-note](https://github.com/shriyanshisharmacse2024-bit/leetcode-submision/tree/master/0383-ransom-note) |
+| [0387-first-unique-character-in-a-string](https://github.com/shriyanshisharmacse2024-bit/leetcode-submision/tree/master/0387-first-unique-character-in-a-string) |
 | [0443-string-compression](https://github.com/shriyanshisharmacse2024-bit/leetcode-submision/tree/master/0443-string-compression) |
 | [0500-keyboard-row](https://github.com/shriyanshisharmacse2024-bit/leetcode-submision/tree/master/0500-keyboard-row) |
 | [0680-valid-palindrome-ii](https://github.com/shriyanshisharmacse2024-bit/leetcode-submision/tree/master/0680-valid-palindrome-ii) |
@@ -225,6 +227,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/shriyanshisharmacse2024-bit/leetcode-submision/tree/master/0169-majority-element) |
 | [0383-ransom-note](https://github.com/shriyanshisharmacse2024-bit/leetcode-submision/tree/master/0383-ransom-note) |
+| [0387-first-unique-character-in-a-string](https://github.com/shriyanshisharmacse2024-bit/leetcode-submision/tree/master/0387-first-unique-character-in-a-string) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/shriyanshisharmacse2024-bit/leetcode-submision/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1512-number-of-good-pairs](https://github.com/shriyanshisharmacse2024-bit/leetcode-submision/tree/master/1512-number-of-good-pairs) |
 | [1704-determine-if-string-halves-are-alike](https://github.com/shriyanshisharmacse2024-bit/leetcode-submision/tree/master/1704-determine-if-string-halves-are-alike) |
@@ -350,4 +353,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0075-sort-colors](https://github.com/shriyanshisharmacse2024-bit/leetcode-submision/tree/master/0075-sort-colors) |
 | [0455-assign-cookies](https://github.com/shriyanshisharmacse2024-bit/leetcode-submision/tree/master/0455-assign-cookies) |
+## Queue
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/shriyanshisharmacse2024-bit/leetcode-submision/tree/master/0387-first-unique-character-in-a-string) |
 <!---LeetCode Topics End-->
