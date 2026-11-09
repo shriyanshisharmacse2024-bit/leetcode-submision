@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/shriyanshisharmacse2024-bit/leetcode-submision/tree/master/0496-next-greater-element-i) |
 | [0498-diagonal-traverse](https://github.com/shriyanshisharmacse2024-bit/leetcode-submision/tree/master/0498-diagonal-traverse) |
 | [0500-keyboard-row](https://github.com/shriyanshisharmacse2024-bit/leetcode-submision/tree/master/0500-keyboard-row) |
+| [0566-reshape-the-matrix](https://github.com/shriyanshisharmacse2024-bit/leetcode-submision/tree/master/0566-reshape-the-matrix) |
 | [0661-image-smoother](https://github.com/shriyanshisharmacse2024-bit/leetcode-submision/tree/master/0661-image-smoother) |
 | [0704-binary-search](https://github.com/shriyanshisharmacse2024-bit/leetcode-submision/tree/master/0704-binary-search) |
 | [0766-toeplitz-matrix](https://github.com/shriyanshisharmacse2024-bit/leetcode-submision/tree/master/0766-toeplitz-matrix) |
@@ -173,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/shriyanshisharmacse2024-bit/leetcode-submision/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/shriyanshisharmacse2024-bit/leetcode-submision/tree/master/0074-search-a-2d-matrix) |
 | [0498-diagonal-traverse](https://github.com/shriyanshisharmacse2024-bit/leetcode-submision/tree/master/0498-diagonal-traverse) |
+| [0566-reshape-the-matrix](https://github.com/shriyanshisharmacse2024-bit/leetcode-submision/tree/master/0566-reshape-the-matrix) |
 | [0661-image-smoother](https://github.com/shriyanshisharmacse2024-bit/leetcode-submision/tree/master/0661-image-smoother) |
 | [0766-toeplitz-matrix](https://github.com/shriyanshisharmacse2024-bit/leetcode-submision/tree/master/0766-toeplitz-matrix) |
 | [0807-max-increase-to-keep-city-skyline](https://github.com/shriyanshisharmacse2024-bit/leetcode-submision/tree/master/0807-max-increase-to-keep-city-skyline) |
@@ -185,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0054-spiral-matrix](https://github.com/shriyanshisharmacse2024-bit/leetcode-submision/tree/master/0054-spiral-matrix) |
 | [0498-diagonal-traverse](https://github.com/shriyanshisharmacse2024-bit/leetcode-submision/tree/master/0498-diagonal-traverse) |
+| [0566-reshape-the-matrix](https://github.com/shriyanshisharmacse2024-bit/leetcode-submision/tree/master/0566-reshape-the-matrix) |
 | [0832-flipping-an-image](https://github.com/shriyanshisharmacse2024-bit/leetcode-submision/tree/master/0832-flipping-an-image) |
 | [0867-transpose-matrix](https://github.com/shriyanshisharmacse2024-bit/leetcode-submision/tree/master/0867-transpose-matrix) |
 | [1929-concatenation-of-array](https://github.com/shriyanshisharmacse2024-bit/leetcode-submision/tree/master/1929-concatenation-of-array) |
