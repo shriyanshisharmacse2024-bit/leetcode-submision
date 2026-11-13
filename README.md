@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0119-pascals-triangle-ii](https://github.com/shriyanshisharmacse2024-bit/leetcode-submision/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/shriyanshisharmacse2024-bit/leetcode-submision/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/shriyanshisharmacse2024-bit/leetcode-submision/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0264-ugly-number-ii](https://github.com/shriyanshisharmacse2024-bit/leetcode-submision/tree/master/0264-ugly-number-ii) |
 ## Hash Table
 |  |
 | ------- |
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/shriyanshisharmacse2024-bit/leetcode-submision/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/shriyanshisharmacse2024-bit/leetcode-submision/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/shriyanshisharmacse2024-bit/leetcode-submision/tree/master/0242-valid-anagram) |
+| [0264-ugly-number-ii](https://github.com/shriyanshisharmacse2024-bit/leetcode-submision/tree/master/0264-ugly-number-ii) |
 | [0268-missing-number](https://github.com/shriyanshisharmacse2024-bit/leetcode-submision/tree/master/0268-missing-number) |
 | [0383-ransom-note](https://github.com/shriyanshisharmacse2024-bit/leetcode-submision/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/shriyanshisharmacse2024-bit/leetcode-submision/tree/master/0387-first-unique-character-in-a-string) |
@@ -218,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/shriyanshisharmacse2024-bit/leetcode-submision/tree/master/0050-powx-n) |
 | [0202-happy-number](https://github.com/shriyanshisharmacse2024-bit/leetcode-submision/tree/master/0202-happy-number) |
 | [0263-ugly-number](https://github.com/shriyanshisharmacse2024-bit/leetcode-submision/tree/master/0263-ugly-number) |
+| [0264-ugly-number-ii](https://github.com/shriyanshisharmacse2024-bit/leetcode-submision/tree/master/0264-ugly-number-ii) |
 | [0268-missing-number](https://github.com/shriyanshisharmacse2024-bit/leetcode-submision/tree/master/0268-missing-number) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/shriyanshisharmacse2024-bit/leetcode-submision/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1512-number-of-good-pairs](https://github.com/shriyanshisharmacse2024-bit/leetcode-submision/tree/master/1512-number-of-good-pairs) |
@@ -250,6 +253,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0264-ugly-number-ii](https://github.com/shriyanshisharmacse2024-bit/leetcode-submision/tree/master/0264-ugly-number-ii) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/shriyanshisharmacse2024-bit/leetcode-submision/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Stack
 |  |
