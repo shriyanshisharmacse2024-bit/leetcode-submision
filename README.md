@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/shriyanshisharmacse2024-bit/leetcode-submision/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/shriyanshisharmacse2024-bit/leetcode-submision/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/shriyanshisharmacse2024-bit/leetcode-submision/tree/master/0283-move-zeroes) |
+| [0410-split-array-largest-sum](https://github.com/shriyanshisharmacse2024-bit/leetcode-submision/tree/master/0410-split-array-largest-sum) |
 | [0455-assign-cookies](https://github.com/shriyanshisharmacse2024-bit/leetcode-submision/tree/master/0455-assign-cookies) |
 | [0485-max-consecutive-ones](https://github.com/shriyanshisharmacse2024-bit/leetcode-submision/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/shriyanshisharmacse2024-bit/leetcode-submision/tree/master/0496-next-greater-element-i) |
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/shriyanshisharmacse2024-bit/leetcode-submision/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/shriyanshisharmacse2024-bit/leetcode-submision/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0264-ugly-number-ii](https://github.com/shriyanshisharmacse2024-bit/leetcode-submision/tree/master/0264-ugly-number-ii) |
+| [0410-split-array-largest-sum](https://github.com/shriyanshisharmacse2024-bit/leetcode-submision/tree/master/0410-split-array-largest-sum) |
 ## Hash Table
 |  |
 | ------- |
@@ -248,6 +250,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/shriyanshisharmacse2024-bit/leetcode-submision/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/shriyanshisharmacse2024-bit/leetcode-submision/tree/master/0162-find-peak-element) |
 | [0268-missing-number](https://github.com/shriyanshisharmacse2024-bit/leetcode-submision/tree/master/0268-missing-number) |
+| [0410-split-array-largest-sum](https://github.com/shriyanshisharmacse2024-bit/leetcode-submision/tree/master/0410-split-array-largest-sum) |
 | [0704-binary-search](https://github.com/shriyanshisharmacse2024-bit/leetcode-submision/tree/master/0704-binary-search) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/shriyanshisharmacse2024-bit/leetcode-submision/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/shriyanshisharmacse2024-bit/leetcode-submision/tree/master/2089-find-target-indices-after-sorting-array) |
@@ -274,6 +277,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/shriyanshisharmacse2024-bit/leetcode-submision/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0410-split-array-largest-sum](https://github.com/shriyanshisharmacse2024-bit/leetcode-submision/tree/master/0410-split-array-largest-sum) |
 | [0455-assign-cookies](https://github.com/shriyanshisharmacse2024-bit/leetcode-submision/tree/master/0455-assign-cookies) |
 | [0680-valid-palindrome-ii](https://github.com/shriyanshisharmacse2024-bit/leetcode-submision/tree/master/0680-valid-palindrome-ii) |
 | [0807-max-increase-to-keep-city-skyline](https://github.com/shriyanshisharmacse2024-bit/leetcode-submision/tree/master/0807-max-increase-to-keep-city-skyline) |
@@ -300,6 +304,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0410-split-array-largest-sum](https://github.com/shriyanshisharmacse2024-bit/leetcode-submision/tree/master/0410-split-array-largest-sum) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/shriyanshisharmacse2024-bit/leetcode-submision/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/shriyanshisharmacse2024-bit/leetcode-submision/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [1732-find-the-highest-altitude](https://github.com/shriyanshisharmacse2024-bit/leetcode-submision/tree/master/1732-find-the-highest-altitude) |
