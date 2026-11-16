@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/shriyanshisharmacse2024-bit/leetcode-submision/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1470-shuffle-the-array](https://github.com/shriyanshisharmacse2024-bit/leetcode-submision/tree/master/1470-shuffle-the-array) |
 | [1512-number-of-good-pairs](https://github.com/shriyanshisharmacse2024-bit/leetcode-submision/tree/master/1512-number-of-good-pairs) |
+| [1552-magnetic-force-between-two-balls](https://github.com/shriyanshisharmacse2024-bit/leetcode-submision/tree/master/1552-magnetic-force-between-two-balls) |
 | [1572-matrix-diagonal-sum](https://github.com/shriyanshisharmacse2024-bit/leetcode-submision/tree/master/1572-matrix-diagonal-sum) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/shriyanshisharmacse2024-bit/leetcode-submision/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/shriyanshisharmacse2024-bit/leetcode-submision/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
@@ -213,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1051-height-checker](https://github.com/shriyanshisharmacse2024-bit/leetcode-submision/tree/master/1051-height-checker) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/shriyanshisharmacse2024-bit/leetcode-submision/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/shriyanshisharmacse2024-bit/leetcode-submision/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1552-magnetic-force-between-two-balls](https://github.com/shriyanshisharmacse2024-bit/leetcode-submision/tree/master/1552-magnetic-force-between-two-balls) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/shriyanshisharmacse2024-bit/leetcode-submision/tree/master/2089-find-target-indices-after-sorting-array) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/shriyanshisharmacse2024-bit/leetcode-submision/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Math
@@ -253,6 +255,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0410-split-array-largest-sum](https://github.com/shriyanshisharmacse2024-bit/leetcode-submision/tree/master/0410-split-array-largest-sum) |
 | [0704-binary-search](https://github.com/shriyanshisharmacse2024-bit/leetcode-submision/tree/master/0704-binary-search) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/shriyanshisharmacse2024-bit/leetcode-submision/tree/master/1385-find-the-distance-value-between-two-arrays) |
+| [1552-magnetic-force-between-two-balls](https://github.com/shriyanshisharmacse2024-bit/leetcode-submision/tree/master/1552-magnetic-force-between-two-balls) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/shriyanshisharmacse2024-bit/leetcode-submision/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Heap (Priority Queue)
 |  |
