@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2778-sum-of-squares-of-special-elements](https://github.com/shriyanshisharmacse2024-bit/leetcode-submision/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2942-find-words-containing-character](https://github.com/shriyanshisharmacse2024-bit/leetcode-submision/tree/master/2942-find-words-containing-character) |
 | [3232-find-if-digit-game-can-be-won](https://github.com/shriyanshisharmacse2024-bit/leetcode-submision/tree/master/3232-find-if-digit-game-can-be-won) |
+| [3364-minimum-positive-sum-subarray](https://github.com/shriyanshisharmacse2024-bit/leetcode-submision/tree/master/3364-minimum-positive-sum-subarray) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/shriyanshisharmacse2024-bit/leetcode-submision/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/shriyanshisharmacse2024-bit/leetcode-submision/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 ## Dynamic Programming
@@ -315,6 +316,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/shriyanshisharmacse2024-bit/leetcode-submision/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [1732-find-the-highest-altitude](https://github.com/shriyanshisharmacse2024-bit/leetcode-submision/tree/master/1732-find-the-highest-altitude) |
 | [1991-find-the-middle-index-in-array](https://github.com/shriyanshisharmacse2024-bit/leetcode-submision/tree/master/1991-find-the-middle-index-in-array) |
+| [3364-minimum-positive-sum-subarray](https://github.com/shriyanshisharmacse2024-bit/leetcode-submision/tree/master/3364-minimum-positive-sum-subarray) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -377,4 +379,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/shriyanshisharmacse2024-bit/leetcode-submision/tree/master/0387-first-unique-character-in-a-string) |
+## Sliding Window
+|  |
+| ------- |
+| [3364-minimum-positive-sum-subarray](https://github.com/shriyanshisharmacse2024-bit/leetcode-submision/tree/master/3364-minimum-positive-sum-subarray) |
 <!---LeetCode Topics End-->
